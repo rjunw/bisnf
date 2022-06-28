@@ -10,7 +10,7 @@ Eric:
 * [learning rate experiments with swag](https://colab.research.google.com/drive/1EZHaQNj9VjZnLi4-VxExUQHNilZ6CmFN?usp=sharing)
 
 Haining:
-* `put your experiments here`
+* [NF with SWAG on one moon data (Karpathy/nflows); SWAG vs gold standard on MVN](https://colab.research.google.com/drive/113Y0p8Y4Nwyi5UVL5xTdrQOt2mLMJjAm?usp=sharing)
 
 Ryan:
 * [Importance sampling to improve SWAG posterior uncertainty approximations of non-Gaussian posterior over parameters of a normalizing flow](https://colab.research.google.com/drive/1m_b9czxfToTuBxcc8JsSxotZ_s9w4rml?usp=sharing)
