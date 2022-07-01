@@ -20,4 +20,4 @@ Ryan:
 * [Characterizing uncertainty in the **two moons** dataset](https://colab.research.google.com/drive/1k9X0KVGJaTgPIKZfElhXZhO7Rv89Vssb?usp=sharing)
   * Current issues: No ground truth to compare SWAG and IS weighted
 * [MNIST SWAG + IS](https://colab.research.google.com/drive/1IqJnRO_vP-sI_KB3USTmEbGBnvHx40gS?usp=sharing)
-  * Current issues: None atm; IS doesn't improve performance; How to quantify uncertainty here?
+  * Current issues: None atm; IS actually did end up improving accuracy :O (only after exponentiating the loss); How to quantify uncertainty here?
