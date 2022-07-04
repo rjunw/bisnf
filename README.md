@@ -12,6 +12,8 @@ Eric:
 Haining:
 * [NF with SWAG on one moon data (Karpathy/nflows); SWAG vs gold standard on MVN](https://colab.research.google.com/drive/113Y0p8Y4Nwyi5UVL5xTdrQOt2mLMJjAm?usp=sharing)
 
+* [Grid Heatmap](https://colab.research.google.com/drive/1qGp78UBE6xVh6xYCHqAWf1ccqkwGImAT?usp=sharing)
+
 Ryan:
 * [Importance sampling to improve SWAG posterior uncertainty approximations of non-Gaussian posterior over parameters of a normalizing flow](https://colab.research.google.com/drive/1m_b9czxfToTuBxcc8JsSxotZ_s9w4rml?usp=sharing)
   * Current issues: IS weighting only very minutely improves uncertainty characterization in log densities (using KS-distance as a metric)
